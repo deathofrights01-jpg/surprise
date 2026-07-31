@@ -1,12 +1,12 @@
 const questions = [
 
-"1. Do you love me? ❤️",
+"1. Do you know me? ❤️",
 
-"2. Are you excited to see me? 😊",
+"2. am I important to you ? 😊",
 
-"3. Do I make you smile? ❤️",
+"3. have I ever made u smile ? ❤️",
 
-"4. Can we meet on Sunday? 🥺",
+"4. do you like talking to me? 🥺",
 
 "5. you sure about that ? "
 
