@@ -8,7 +8,7 @@ const questions = [
 
 "4. do you like talking to me? 🥺",
 
-"5. you sure about that ? "
+"5. do you see me as your partmer in future ? "
 
 ];
 
